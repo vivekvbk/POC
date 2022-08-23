@@ -1,0 +1,4 @@
+Priority,Testcase,Testcase2,Testcase3,Testcase4
+Y,Addpet.feature@addingpet,Addpet.feature@gettingpet,Addpet.feature@updatingpet,Addpet.feature@deletingpet
+Y,CRUD.feature@addingpetcrud,CRUD.feature@gettingpetcrud,CRUD.feature@updatingpetcrud,
+Y,Getpet.feature@addingpet,Getpet.feature@gettingpet,,
